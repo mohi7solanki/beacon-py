@@ -6,7 +6,6 @@ test_patterns = [
 
 exclude_patters = [
   "beacon/beacon_pb2.py",
-  "beacon/beacon_pb2_grpc.py"
 ]
 
 [[analyzers]]
