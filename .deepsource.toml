@@ -3,9 +3,8 @@ version = 1
 test_patterns = [
   "tests/"
 ]
-
 exclude_patters = [
-  "beacon/beacon_pb2.py",
+  "beacon/beacon_pb2.py"
 ]
 
 [[analyzers]]
